@@ -1,0 +1,14 @@
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 326:Plugin executed on: 'win32'
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 327:Plugin executed with python version: '3.9.14 (main, Sep 19 2022, 05:11:57) [MSC v.1932 64 bit (AMD64)]'
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 328:KiCad build version: (6.0.8)
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 329:Plugin version: 1.2.5
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 330:Frame repr: <wx._core.Frame object at 0x000001F16CE73790>
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 354:Preparing replicator with C6 as a reference
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:getting a list of all footprints on board
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 378:source anchor footprint is 'C6'
+Located on: []
+With filenames: []
+With sheet_id:[]
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 385:Corresponding footprints are 
+[('C6', [])]
+12-13 17:28:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 397:Showing dialog
